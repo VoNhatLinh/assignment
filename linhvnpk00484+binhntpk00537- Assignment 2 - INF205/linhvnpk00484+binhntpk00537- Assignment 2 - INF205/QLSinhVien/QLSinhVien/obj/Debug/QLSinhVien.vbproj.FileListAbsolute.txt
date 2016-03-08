@@ -1,0 +1,11 @@
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmQLSinhVien.resources
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmSua.resources
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Resources.resources
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.vbproj.GenerateResource.Cache
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.xml
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.xml
+C:\Users\Linh King\Desktop\New folder\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
